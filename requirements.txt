@@ -1,0 +1,10 @@
+numpy
+scikit-learn
+joblib
+pandas
+opencv-python
+mtcnn
+keras-facenet
+mysql-connector-python
+Pillow
+Flask
