@@ -1,6 +1,6 @@
 # Automatic Employee Attendance System using Face Recognition Mini Project
 
-# Employee Attendance System using Face Recognition
+
 
 ## 📌 Project Overview
 
